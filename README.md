@@ -1,5 +1,5 @@
 # techconsbiz-test
 
-command start :
--npm install
--npm start
+## command start :
+- npm install
+- npm start
